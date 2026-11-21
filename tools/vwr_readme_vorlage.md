@@ -1,7 +1,6 @@
 # Welches Verfahren wann? Wegweiser für den Pegel am Rand – Streamlit-Demo
 
-<!-- TODO nach dem Deploy: direkt hierher den Live-Link setzen (Leerzeile davor und danach):
-**[→ Demo live ausprobieren](https://sebastianhanisch-verfahrenswahl-rand-demo.streamlit.app/)** -->
+**[→ Demo live ausprobieren](https://sebastianhanisch-verfahrenswahl-rand-demo.streamlit.app/)**
 
 Demo der Linie **„Extremwerte erklärt“** in der „Konzepte“-Reihe der Website „Sebastian Hanisch – Operations Research und Machine Learning“ (Bereich Statistik, Feld „Seltenes und Extremes“). Es ist die **Zusammenfluss-Demo**: Die Demos davor haben je eine Frage mit einem Verfahren beantwortet (Maximum von n, GEV an Blockmaxima, Wiederkehrwert und Intervalle, Überschreitungen und GPD, Schwellenwahl, Hill, Abhängigkeit, Trend); diese Demo stellt sie nebeneinander und sagt, **wo jedes aufhört**. Die Kante heißt `kontrast`: Es behebt kein Verfahren, es hebt die **stille Annahme „es gibt ein richtiges Verfahren“** auf. Muster im Bestand ist `verfahrenswahl-aenderung-demo` (ein Wegweiser für Kontrollkarten, anderer Inhalt).
 
